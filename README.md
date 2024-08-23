@@ -1,2 +1,2 @@
 # cheet-sheets-py
-Cheat Sheets
+Python data structures cheat sheet covers the theoretical essentials
